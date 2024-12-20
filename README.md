@@ -3,10 +3,10 @@
 A simulation of particle interactions and behavior. This project models the movement and interaction of particles in a simulated environment.
 
 ## Table of Contents
--[about](#about)
--[features](#features)
--[Current-Status](#Current-Status)
--[License](#License)
+- [About](#about)
+- [Features](#features)
+- [Current-Status](#Current-Status)
+- [License](#License)
 
 
 ## About
